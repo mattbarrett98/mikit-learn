@@ -1,5 +1,16 @@
 # mikit-learn
-Coding 7 different classification algorithms used in scikit-learn and TensorFlow, to learn Python. Some of the things I learnt:
+Coding 7 different classification algorithms used in scikit-learn and TensorFlow, to learn Python. The 7 algorithms are
+1. K nearest Neighbours
+2. Multinomial logistic regression
+3. Support vector classifier
+4. Decision tree
+5. Random forest
+6. Multilayer perceptron
+7. Convolutional neural network (with batch normalisation). 
+
+
+
+Some of the things I learnt:
 * OOP in Python (constructors, inheritance, composition, encapsulation).
 * Generators: for a memory efficient implementation of k nearest neighbours.
 * Cython: to speed up the implementation of support vector classifier.
