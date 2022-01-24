@@ -5,7 +5,7 @@ Coding 7 different classification algorithms used in scikit-learn and TensorFlow
 3. Support vector classifier
 4. Decision tree
 5. Random forest
-6. Multilayer perceptron
+6. Multilayer perceptron (with data augmentation)
 7. Convolutional neural network (with batch normalisation). 
 
 
