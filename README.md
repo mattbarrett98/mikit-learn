@@ -20,5 +20,6 @@ Some of the things I learnt:
 * Metaclasses: using abstract base classes to force our classifiers to implement certain methods.
 * Magic methods: using __ eq __ to allow comparison of mine and scikit's classifiers.
 * NumPy: allows us to vectorise computations. Almost everything is done in NumPy for efficiency.
+* Pytest: writing unit tests in Python.
 * PEP 8: how to write readable and well-documented code.
 * A thorough understanding of how all of these algorithms work.
